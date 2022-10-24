@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: music without trousers
+* Student Name: Nguyen Quoc Thong
 * Student ID: m21.ict.010
 
